@@ -33,10 +33,10 @@ Vite server will be started at http://localhost:5173
 ## Building
 To build for production:
 ```bash
-bun build
+bun run build
 ```
 
 To preview the production build:
 ```bash
-bun preview
+bun run preview
 ```
